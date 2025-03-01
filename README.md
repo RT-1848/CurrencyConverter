@@ -9,7 +9,7 @@ A simple and efficient currency converter that allows users to quickly convert b
   <li><strong>HTML</strong></li>
 </ul>
 
-## ❓ Reason
+## ❓ Why
 
 This project was created to gain a learning experience and practice working with frontend frameworks and tools like React, Vite, and Tailwind CSS.
 
