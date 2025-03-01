@@ -1,12 +1,22 @@
-# React + Vite
+# 💰 Currency Converter
+A simple and efficient currency converter that allows users to quickly convert between different currencies with a user-friendly interface!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Tech Stack
+<ul>
+  <li><strong>React</strong></li>
+  <li><strong>Tailwind CSS</strong></li>
+  <li><strong>Javascript</strong></li>
+  <li><strong>HTML</strong></li>
+</ul>
 
-Currently, two official plugins are available:
+## ❓ Reason
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was created to gain a learning experience and practice working with frontend frameworks and tools like React, Vite, and Tailwind CSS.
 
-## Expanding the ESLint configuration
+## 🏃 Running the Project
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<ol>
+  <li><strong>Clone the Repository</strong></li>
+  <li><strong>Install Dependencies:</strong> <code>npm install</code></li>
+  <li><strong>Run the Server:</strong> <code>npm run dev</code></li>
+</ol>
